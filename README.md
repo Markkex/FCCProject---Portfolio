@@ -1,4 +1,4 @@
-﻿# Marco Ávila Portfolio 
+﻿# Marco Ávila Portfolio (www.marcoavila.com)
  
  Actually this started as a final project for a certification on Free Code Camp. Which i finaly got it the 1st one! :D
  But decided to take it to the next level and start taking as a personal advertisement. 
@@ -20,6 +20,7 @@ As for resources:
 -- Images are from a few personal jobs. 
 -- Background is called Static Noise Background and you can find it here: https://codepen.io/iceable/pen/yLBrZOd
 
-
-
-
+/* What's NEXT? */ 
+- Create sitemap and add CEO to the website. 
+- Fix the title image on top of the website. 
+- Along the way create more and more and add more content to the website (animations, SVG).
